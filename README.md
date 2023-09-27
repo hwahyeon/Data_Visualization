@@ -8,7 +8,7 @@
 
 <img src="./assets/cover.jpg" alt="Cover" width="200">
 
-> 저자 : 박서영·이긍희
+> 박서영·이긍희
 
 ## 학습 목표
 - 시각화의 기본 요소 학습
